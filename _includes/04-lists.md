@@ -1,11 +1,11 @@
 Replace this with a list of your favorite things.
+❤  : * heart :
 
-heart	:heart:
+👍  : * +1 :
 
-+1	:+1:
+😃  : * smile :
 
-smile	:smile:
+✨  : * sparkles :
 
-sparkles	:sparkles:
+🎉  : * tada :
 
-tada	:tada:
